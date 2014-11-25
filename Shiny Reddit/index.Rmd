@@ -17,13 +17,13 @@ knit        : slidify::knit2slides
 ---
 
 ## Why?
-Have you ever been reading Reddit and wondered, "Hmm, I wonder if there is a correlation between upvotes and comments on particular subreddits." Of course you have. And that's why we've created the ultra-stupendous, fantastic, mind-bending Shiny Reddit Analyser. 
+Have you ever been reading Reddit and wondered, "Hmm, I wonder if there is a correlation between upvotes and comments on particular subreddits." Of course you have. And that's why we've created the ultra-stupendous, fantastic, mind-bending Shiny Reddit Analyzer. 
 
 --- 
 
 
 ## What?
-With the Shiny Reddit Analyser, you can type in any subreddit and find out the total number of comments, upvotes and the correlation between comments and upvotes. But that's nota all. Act now and we'll throw in a chart mapping upvotes to comments. 
+With the Shiny Reddit Analyzer, you can type in any subreddit and find out the total number of comments, upvotes and the correlation between comments and upvotes. But that's nota all. Act now and we'll throw in a chart mapping upvotes to comments. 
 
 "You can see the data!" - Clark Obvious (A satisfied customer)
 
